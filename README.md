@@ -1,2 +1,0 @@
-# ckw-ai
-ai platform
